@@ -1,0 +1,35 @@
+body {
+    background-color: #E9EDED;
+}
+
+.btn-shopee {
+    background-color: #FA5230;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn-shopeeOff {
+    background-color: darkgray;
+    color: rgb(216, 216, 216);
+}
+
+.btn-shopeeOff:hover {
+    background-color: darkgray;
+    color: rgb(216, 216, 216);
+}
+
+.btn-shopee:hover {
+    background-color: #e2320f;
+    color: white;
+}
+
+.btn-ml {
+    background-color: #FFE600;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn-ml:hover {
+    background-color: #f3dd1a;
+}
